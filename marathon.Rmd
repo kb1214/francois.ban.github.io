@@ -1,8 +1,12 @@
 ---
 title: "Marathon"
-author: "Francois Ban"
-date: "12/8/2019"
-output: html_document
+output: 
+  html_document:
+    theme: flatly
+    highlight: tango
+    toc: true
+    toc_depth: 2
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}

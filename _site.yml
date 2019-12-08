@@ -15,6 +15,10 @@ navbar:
       menu: 
         - Text: "Marathon"
           href: marathon.html
+        - Text: "Travels"
+          href: travels.html
+        - Text: "Food"
+          href: food.html
     - icon: fa-envelope fa-lg
       href: mailto:<francois.ban1214@gmail.com>
     - icon: fa-github fa-lg
