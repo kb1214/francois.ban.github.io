@@ -11,6 +11,10 @@ navbar:
           href: midterm.html
         - text: "Midterm Election"
           href: finalproject.html
+    - text: "Interests"
+      menu: 
+        - Text: "Marathon"
+          href: marathon.html
     - icon: fa-envelope fa-lg
       href: mailto:<francois.ban1214@gmail.com>
     - icon: fa-github fa-lg
