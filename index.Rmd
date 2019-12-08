@@ -1,38 +1,7 @@
-title: <center> Francois Ban
-output: 
-  html_document:
-    theme: flatly
+---
+title: "Holy cow!"
 ---
 
-<center>
+### I have a webpage!
 
-#### Department of Epidemiology, Certificate in Advanced Epidemiology
-#### Columbia University Mailman School of Public Health
-
----
-<center>
-<img src="image/linkedin_pic.png" style="width:55%">  
-
-<div id="just-line-break"></div>
-<br/>
-<div id="line-break-and-tab"></div>
-
-Passionate, highly motivated health professional seeking a position as a Data Analyst in the Fitness, Health, and Wellness industry. Mastery of technical skills through internship experience and quantitative graduate classes. Excellent written and communicative skills with keen attention to detail. Enthusiastic about motivating and encouraging others to live a healthier lifestyle. Co-author of an abstract for the Peer Support for Health Change Study submitted to the Pan-American Congress of Rheumatology PANLAR conference.  
-Completer of the 2017 Pittsburgh Marathon and scheduled to run 2019 Chicago Marathon in October.
-
-<div id="just-line-break"></div>
-<br/>
-<div id="line-break-and-tab"></div>
-
-<center> 
-
-Contact Information:
-
-Francois Ban  
-[Department of Epidemiology](https://www.mailman.columbia.edu/become-student/departments/epidemiology)  
-[Columbia Mailman School of Public Health](https://www.mailman.columbia.edu/)  
-100 Haven Ave, 12H  
-New York NY, 10032
-
-Personal Email: [Click Here!](mailto:francois.ban1214@gmail.com)  
-Phone: 631.617.2859
+And I can put all kinds of stuff on it!
