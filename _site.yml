@@ -12,12 +12,12 @@ navbar:
         - text: "Midterm Election"
           href: finalproject.html
     - text: "Interests"
-      menu: 
-        - Text: "Marathon"
+      menu:
+        - text: "Marathon"
           href: marathon.html
-        - Text: "Travels"
+        - text: "Travels"
           href: travels.html
-        - Text: "Food"
+        - text: "Food"
           href: food.html
     - icon: fa-envelope fa-lg
       href: mailto:<francois.ban1214@gmail.com>
