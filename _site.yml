@@ -1,13 +1,21 @@
-name: "Yay internet!"
+name: "personal_website"
 output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Projects"
+      menu:
+        - text: "Physical Activity"
+          href: midterm.html
+        - text: "Midterm Election"
+          href: finalproject.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<francois.ban1214@gmail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: https://github.com/kb1214/francois.ban.github.io
+    - icon: fab fa-linkedin
+      href: linkedin.com/in/francois-ban-mph-120331149
 output:
   html_document
