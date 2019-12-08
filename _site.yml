@@ -11,6 +11,7 @@ navbar:
           href: midterm.html
         - text: "Midterm Election"
           href: finalproject.html
+
     - text: "Interests"
       menu:
         - text: "Marathon"
